@@ -5,7 +5,7 @@
 
 ### Applications
 
-I run several sub-Quoras which reflect my interest in application fields:
+I run several sub-Quoras [rsvp@quora] which reflect my interest in application fields:
 
 - Machine learning: [compute]
 - Software engineering: [source]
@@ -18,6 +18,7 @@ I run several sub-Quoras which reflect my interest in application fields:
 - Github: [rsvp@github]
 - Bitbucket: [rsvp@bitbucket]
 - Sourceforge: [y_serial] (NoSQL compressed Python objects)
+- Soundcloud: [rsvp@soundcloud] (Electronica/bass)
 
     **Life tests:**
 
@@ -30,15 +31,16 @@ I run several sub-Quoras which reflect my interest in application fields:
 
 ### Contact
 
-You may write to me via this [contact page].
+You may also write to me via this [contact page].
 
 - - - -
 
-*2014-11-04*
+*2014-11-05*
 
-[rsvp@github]:    https://github.com/rsvp        "Adriano, rsvp at Github"
-[rsvp@bitbucket]: https://bitbucket.org/rsvp     "Adriano, rsvp at Bitbucket"
-[y_serial]:       http://yserial.sourceforge.net "y_serial module -- warehouse compressed Python objects with SQLite"
+[rsvp@github]:     https://github.com/rsvp           "Adriano, rsvp at Github"
+[rsvp@bitbucket]:  https://bitbucket.org/rsvp        "Adriano, rsvp at Bitbucket"
+[y_serial]:        http://yserial.sourceforge.net    "y_serial module -- warehouse compressed Python objects with SQLite"
+[rsvp@soundcloud]: https://soundcloud.com/rsvp/sets  "Adriano, rsvp at Soundcloud"
 
 [rsvp@quora]:     https://rsvp.quora.com/?share=1    "Adriano, rsvp at Quora"
 [compute]:        https://compute.quora.com/?share=1 "Computation and Machine Learning at Quora"
@@ -46,7 +48,7 @@ You may write to me via this [contact page].
 [optimal]:        https://optimal.quora.com/?share=1 "Optimal portfolios and financial economics at Quora"
 [mathsci]:        https://mathsci.quora.com/?share=1 "Mathematical sciences at Quora"
 
-[contact page]:   http://contact.rsvp247.org         "rsvp, Adriano"
+[contact page]:   http://contact.rsvp247.org         "rsvp Adriano"
 
 [//]: # (This may be the most platform-independent comment syntax using Markdown.) 
 [Markdown]:       https://bitbucket.org/tutorials/markdowndemo
