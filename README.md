@@ -48,7 +48,7 @@ You may also write to me via this [contact page].
 [optimal]:        https://optimal.quora.com/?share=1 "Optimal portfolios and financial economics at Quora"
 [mathsci]:        https://mathsci.quora.com/?share=1 "Mathematical sciences at Quora"
 
-[contact page]:   http://contact.rsvp247.org         "rsvp Adriano"
+[contact page]:   http://goo.gl/XVnfzR               "rsvp Adriano"
 
 [//]: # (This may be the most platform-independent comment syntax using Markdown.) 
 [Markdown]:       https://bitbucket.org/tutorials/markdowndemo
