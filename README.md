@@ -17,8 +17,8 @@ I run several sub-Quoras [rsvp@quora] which reflect my interest in application f
 
 - Github: [rsvp@github]
 - Bitbucket: [rsvp@bitbucket]
-- Sourceforge: [y_serial] (NoSQL compressed Python objects)
-- Soundcloud: [rsvp@soundcloud] (Electronica/bass)
+- Sourceforge: [y_serial] NoSQL compressed Python objects
+- Soundcloud: [rsvp@soundcloud] Electronica/bass
 
     **Life tests:**
 
