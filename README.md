@@ -1,6 +1,8 @@
 ## import Adriano as rsvp
 
-*My research is focused on stochastic processes and optimization. Most of the related code is written in Python, for example, modules for time series analysis, probabilistic algorithms, etc.*
+*My mathematical research is focused on stochastic processes 
+and optimization. I code most often in Python, for example, 
+modules for time-series analysis and probabilistic algorithms.*
 
 
 ### Applications
@@ -15,28 +17,27 @@ I run several sub-Quoras [rsvp@quora] which reflect my interest in application f
 
 ### Repositories
 
-- Github: [rsvp@github]
+- GitHub: [rsvp@github]
+    - Jupyter notebooks for financial economics: [fecon235]
+- Docker: [rsvp@docker]
 - Bitbucket: [rsvp@bitbucket]
 - Sourceforge: [y_serial] NoSQL compressed Python objects
 - Soundcloud: [rsvp@soundcloud] Electronica/bass
 
-    **Life tests:**
-
-    - update with origin
-    - hack on local branch
-    - bisect until errors are remedied
-    - rebase/merge from master
-    - if not fatal, reproduce and repeat...
-        - else, try reset using HEAD@{:-}
 
 ### Contact
 
-You may also write to me via this [contact page].
+You may write to me via this [contact page]. 
+Or for a quick chat: [rsvp@gitter]
+
+![](https://secure.gravatar.com/avatar/dc40e76ec78cb544f7bf64e1c1480745.jpg?s=97&r=g&d=mm)
 
 - - - -
 
-*2014-11-05*
+*v16.11.07* - [https://rsvp.github.com]
 
+[fecon235]:        https://github.com/rsvp/fecon235  "Jupyter notebooks for financial economics"
+[rsvp@docker]:     https://hub.docker.com/u/rsvp     "Adriano, rsvp at Docker"
 [rsvp@github]:     https://github.com/rsvp           "Adriano, rsvp at Github"
 [rsvp@bitbucket]:  https://bitbucket.org/rsvp        "Adriano, rsvp at Bitbucket"
 [y_serial]:        http://yserial.sourceforge.net    "y_serial module -- warehouse compressed Python objects with SQLite"
@@ -48,7 +49,9 @@ You may also write to me via this [contact page].
 [optimal]:        https://optimal.quora.com/?share=1 "Optimal portfolios and financial economics at Quora"
 [mathsci]:        https://mathsci.quora.com/?share=1 "Mathematical sciences at Quora"
 
-[contact page]:   http://goo.gl/XVnfzR               "rsvp Adriano"
+[rsvp@gitter]:    https://gitter.im/rsvp/pub         "Adriano, rsvp at Gitter"
+[contact page]:   http://goo.gl/XVnfzR               "Contact Adriano rsvp page"
+[https://rsvp.github.com]:  https://rsvp.github.com  "Adriano rsvp.github.com"
 
 [//]: # (This may be the most platform-independent comment syntax using Markdown.) 
 [Markdown]:       https://bitbucket.org/tutorials/markdowndemo
