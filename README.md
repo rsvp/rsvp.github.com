@@ -25,6 +25,17 @@ I run several sub-Quoras [rsvp@quora] which reflect my interest in application f
 - Soundcloud: [rsvp@soundcloud] Electronica/bass
 
 
+### Authentication
+
+Certain commits and tags are *signed* using this public key https://git.io/rsvpkey
+which I also use for correspondence. My fingerprint:
+
+```
+1842 D8EA A144 D50B 3803  C386 A632 6182 F025 5254
+
+```
+
+
 ### Contact
 
 You may write to me via this [contact page]. 
@@ -34,7 +45,7 @@ Or for a quick chat: [rsvp@gitter]
 
 - - - -
 
-*v16.11.07* - [https://rsvp.github.com]
+*v17.07.20* - [https://rsvp.github.com]
 
 [fecon235]:        https://github.com/rsvp/fecon235  "Jupyter notebooks for financial economics"
 [rsvp@docker]:     https://hub.docker.com/u/rsvp     "Adriano, rsvp at Docker"
