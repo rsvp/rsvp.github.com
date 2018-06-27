@@ -19,6 +19,7 @@ I run several sub-Quoras [rsvp@quora] which reflect my interest in application f
 
 - GitHub: [rsvp@github]
     - Jupyter notebooks for financial economics: [fecon235]
+    - Python wrapper for financial economics: [fecon236]
 - Docker: [rsvp@docker]
 - Bitbucket: [rsvp@bitbucket]
 - Sourceforge: [y_serial] NoSQL compressed Python objects
@@ -45,9 +46,10 @@ Or for a quick chat: [rsvp@gitter]
 
 - - - -
 
-*v17.07.20* - [https://rsvp.github.com]
+*v18.06.26* - [https://rsvp.github.com]
 
 [fecon235]:        https://github.com/rsvp/fecon235  "Jupyter notebooks for financial economics"
+[fecon236]:        https://github.com/MathSci/fecon236  "Python wrapper for financial economics"
 [rsvp@docker]:     https://hub.docker.com/u/rsvp     "Adriano, rsvp at Docker"
 [rsvp@github]:     https://github.com/rsvp           "Adriano, rsvp at Github"
 [rsvp@bitbucket]:  https://bitbucket.org/rsvp        "Adriano, rsvp at Bitbucket"
