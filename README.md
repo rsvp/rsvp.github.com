@@ -63,7 +63,7 @@ Or for a quick chat: [rsvp@gitter]
 [mathsci]:        https://mathsci.quora.com/?share=1 "Mathematical sciences at Quora"
 
 [rsvp@gitter]:    https://gitter.im/rsvp/pub         "Adriano, rsvp at Gitter"
-[contact page]:   http://goo.gl/XVnfzR               "Contact Adriano rsvp page"
+[contact page]:   https://goo.gl/QqabQT              "Contact Adriano rsvp page 2018"
 [https://rsvp.github.com]:  https://rsvp.github.com  "Adriano rsvp.github.com"
 
 [//]: # (This may be the most platform-independent comment syntax using Markdown.) 
